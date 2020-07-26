@@ -143,7 +143,7 @@ a{
 	width: 220px;
 	border: 2px solid white;
 	border-radius: 10px;
-	background-color: rgb(153,217,234);
+	background-color: rgb(19,197,183);
 	font-size: 15px;
 	font-family: Helvetica;
 	font-weight: bold;
@@ -151,12 +151,12 @@ a{
 	margin-bottom: 15px;
 }
 .projectButton:hover{
-	color: rgb(153,217,234);
+	color: rgb(19,197,183);
 	background-color: white;
-	border: 2px solid rgb(153,217,234);
+	border: 2px solid rgb(19,197,183);
 }
 .projectButton:focus{
-	border: 2px solid rgb(153,217,234);
+	border: 2px solid rgb(19,197,183);
 }
 .docButton{
 	border: 1px solid black;
@@ -169,7 +169,7 @@ a{
 	-webkit-filter: brightness(50%); 
 }
 .iconButton{
-	background-color: rgb(247,202,54);
+	background-color: rgb(19,197,183);
 	border: 2px solid white;
 	border-radius: 10px;
 	color: white;
@@ -187,11 +187,11 @@ a{
 }
 .iconButton:hover{
 	background-color: white;
-	color: rgb(247,202,54);
+	color: rgb(19,197,183);
 	outline: none;
 }
 .iconButton:focus{
-	border: 2px solid rgb(247,202,54);
+	border: 2px solid rgb(19,197,183);
 	outline: none;
 	outline: 0;
 }
